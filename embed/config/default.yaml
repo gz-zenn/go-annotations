@@ -1,0 +1,6 @@
+server:
+  addr: ":8080"
+  read_timeout: 5s
+logging:
+  level: info
+  format: text
